@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="User Birthdays" max_length="40" name="x_292349_demo_app_user_birthdays" type="collection">
+        <element label="Date of Birth" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="First Name" max_length="255" name="first_name" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" max_length="255" name="last_name" type="string_full_utf8"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+    </element>
+</database>

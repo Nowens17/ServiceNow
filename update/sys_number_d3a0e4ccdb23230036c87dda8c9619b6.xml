@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_292349_demo_app_user_birthdays">x_292349_demo_app_user_birthdays</category>
+        <maximum_digits>7</maximum_digits>
+        <number>100</number>
+        <prefix>BDY</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-05 20:38:40</sys_created_on>
+        <sys_id>d3a0e4ccdb23230036c87dda8c9619b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BDY</sys_name>
+        <sys_package display_value="Demo App" source="x_292349_demo_app">ad5e9cc8db23230036c87dda8c96191c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo App">ad5e9cc8db23230036c87dda8c96191c</sys_scope>
+        <sys_update_name>sys_number_d3a0e4ccdb23230036c87dda8c9619b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-05 20:38:40</sys_updated_on>
+    </sys_number>
+</record_update>

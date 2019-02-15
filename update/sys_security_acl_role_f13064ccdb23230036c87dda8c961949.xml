@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-05 20:36:39</sys_created_on>
+        <sys_id>f13064ccdb23230036c87dda8c961949</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_292349_demo_app_user_birthdays.x_292349_demo_app.user_birthdays_user</sys_name>
+        <sys_package display_value="Demo App" source="x_292349_demo_app">ad5e9cc8db23230036c87dda8c96191c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo App">ad5e9cc8db23230036c87dda8c96191c</sys_scope>
+        <sys_security_acl display_value="x_292349_demo_app_user_birthdays">393064ccdb23230036c87dda8c961946</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f13064ccdb23230036c87dda8c961949</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-05 20:36:39</sys_updated_on>
+        <sys_user_role display_value="x_292349_demo_app.user_birthdays_user" name="x_292349_demo_app.user_birthdays_user">2d3064ccdb23230036c87dda8c96190e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
